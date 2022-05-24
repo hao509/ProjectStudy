@@ -20,3 +20,16 @@ ssh-keygen -t ed25519 -C  "2521732124@qq.com"
 ## 需求问题
 
 各种类图 流程图 时序图 数据库设计e—r图 软件架构图
+
+# 3.third day
+
+## Javaweb  springboot mybatisplus构建 tomcat使用原理 
+
+## jar war pom 打包方式
+
+
+
+功能列表  项目具体框架搭建
+
+##  
+
