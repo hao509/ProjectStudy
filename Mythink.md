@@ -33,3 +33,6 @@ ssh-keygen -t ed25519 -C  "2521732124@qq.com"
 
 ##  
 
+# 4.fourth day
+
+nodejs npm cnpm 环境搭建 vew 学习
