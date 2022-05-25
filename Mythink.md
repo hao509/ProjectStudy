@@ -39,3 +39,10 @@ ssh-keygen -t ed25519 -C  "2521732124@qq.com"
 
 ##  vue学习：
 
+## 生命周期 常用
+
+## axios 获取数据 渲染数据
+
+## 分页
+
+## flexible 70 540->width 
