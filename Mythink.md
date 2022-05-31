@@ -65,5 +65,13 @@ ssh-keygen -t ed25519 -C  "2521732124@qq.com"
 
 ## 功能完善
 
+App登录
+
+
+
+# 9.ninth day 
+
+app 注册登录完善，改表。
+
 
 
